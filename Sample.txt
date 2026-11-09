@@ -1,0 +1,2 @@
+Hello,this is a sample text to demonstrate file operation in node.js
+file system created
